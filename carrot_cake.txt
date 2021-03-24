@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Carrot Cake
+
+---
+source: Stian
+type: Cake
+---
+>>>>>>> add_meta
 
 2 cups of sugar
 4 eggs1.5 cup oil
